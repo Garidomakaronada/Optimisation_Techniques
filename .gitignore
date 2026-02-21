@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+.git/
+template_folder/.git/
+fonts/atkinson-hyperlegible/.git/
