@@ -4,5 +4,5 @@
 *.toc
 *.synctex.gz
 .git/
-template_folder/.git/
+template_folder
 fonts/atkinson-hyperlegible/.git/
